@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "stack": "cpp",
+        "algorithm": "cpp"
+    },
+    "git.ignoreLimitWarning": true
+}
